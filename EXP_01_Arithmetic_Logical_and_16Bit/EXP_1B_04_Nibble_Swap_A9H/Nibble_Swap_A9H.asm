@@ -1,0 +1,14 @@
+; Method 1: Using RR A
+ORG 00H
+MOV A, #0A9H
+RR A
+RR A
+RR A
+RR A
+END
+
+; Method 2: Using SWAP A
+ORG 00H
+MOV A, #0A9H
+SWAP A
+END

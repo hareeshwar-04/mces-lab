@@ -1,0 +1,32 @@
+# Keil uVision
+*.uvopt
+*.uvproj
+*.uvgui.*
+*.uvoptx
+*.uvprojx
+*.uvguix.*
+*.Bak
+*.bak
+*.d
+*.crf
+*.o
+*.obj
+*.hex
+*.axf
+*.lnp
+*.lst
+*.m51
+*.map
+*.__i
+
+# Arduino
+build/
+*.hex
+*.elf
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*~
