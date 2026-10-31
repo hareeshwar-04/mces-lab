@@ -1,5 +1,0 @@
-ORG 00H
-MOV A, #0A9H
-MOV B, #99H
-XCH A, B
-END
